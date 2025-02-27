@@ -1,0 +1,38 @@
+---
+title: "Analyse et Traitement Avancé des Données avec R"
+author: "PEHAN Boré Hermann"
+format: pdf
+editor: visual
+---
+
+## Introduction à R et Rstudio
+
+## Introduction à la gestion avancée des données avec R
+
+### Lecture des données
+
+### Concepts avancés de manipulation des données avec `tidyverse` et `data.table`
+
+#### Concepts avancés de manipulation des données avec `tidyverse`
+
+#### Concepts avancés de manipulation des données avec `data.table`
+
+### Optimisation du traitement des grands ensembles de données
+
+### Programmation fonctionnelle et manipulation efficace des données
+
+## Analyse exploratoire et modélisation
+
+### Techniques avancées de visualisation avec `ggplot2` et `plotly`
+
+### Méthodes statistiques et modélisation prédictive avec `caret` et `randomForest`
+
+### Analyse des séries temporelles avec `forecast`
+
+## Traitement des données et automatisation
+
+### Automatisation du nettoyage des données avec `tidymodels`
+
+### Optimisation des performances d’analyse avec `parallel` et `bigmemory`
+
+### Interaction entre R et Python avec `reticulate`
