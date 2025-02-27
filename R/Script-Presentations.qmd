@@ -7,7 +7,32 @@ editor: visual
 
 ## Introduction à R et Rstudio
 
+### R
+
+-   Logiciel open-source
+
+-   Langage orienté vers le traitement, l'analyse des données et que la visualisation des données
+
+-   Rédaction de rapport (word, powerpoint, pdf et html)
+
+-   Installation
+
+    -   Sous windows: [Télécharger ici](http://cran.r-project.org/bin/windows/base/)
+    -   Sous Mac OS X: [Télécharger ici](http://cran.r-project.org/bin/macosx/){style="blue"}
+
+### Rstudio
+
+-   Environnement de développement intégré pour R
+
+-   Installation: [Télécharger ici](http://www.rstudio.com/products/rstudio/download/)
+
 ## Importation de fichier
+
+### Importation des fichiers textes (.txt,.csv)
+
+#### Importation graphique
+
+![Charger un fichier texte par l'interface](images/importation_interface.png){fig-align="center"}
 
 ## Introduction à la gestion avancée des données avec R
 
