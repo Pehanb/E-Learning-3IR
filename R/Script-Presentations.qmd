@@ -26,7 +26,6 @@ editor: visual
 
 Installation: [Télécharger ici](http://www.rstudio.com/products/rstudio/download/)
 
-
 ## Importation de fichier
 
 ### Importation des fichiers textes (.txt,.csv)
@@ -41,17 +40,14 @@ Installation: [Télécharger ici](http://www.rstudio.com/products/rstudio/downlo
 library(readr)
 table_texte <- read_delim("data/exemple_texte_table.txt",delim = "\t", quote ="'")
 communes <- read_csv("data/communes-01012019.csv")
-
 ```
 
 ### Importation des fichiers excel (.xls ou .xlsx)
 
 Pour l'importation des fichiers excel, on peut utiliser les packages `readxl` ou `xlxs`
 
+```         
 ```
-
-```
-
 
 ## Introduction à la gestion avancée des données avec R
 
